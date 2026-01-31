@@ -38,9 +38,8 @@ The system is *instrumented* with:
 ## REPORT
 <img width="1087" height="592" alt="image" src="https://github.com/user-attachments/assets/3059b112-2762-4378-944f-3526294397fa" />
 
-
 ## TABLE
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/8187400b-dfa9-481f-af58-8bc84f33ee0b" />
+![WhatsApp Image 2026-01-31 at 1 33 22 PM](https://github.com/user-attachments/assets/50f28eec-4ed2-43b1-8925-710ac1079d05)
 
 ## DESCRIPTION
 OptiPerformer is used to simulate a basic fiber optic communication system.
